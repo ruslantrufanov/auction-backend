@@ -41,6 +41,8 @@
 - делает процесс более прозрачным
 - стимулирует активное участие на протяжении всего аукциона
 
+## Секвенс-диаграмма
+
 ![Sequence diagram](sequence.png)
 
 ---
@@ -139,6 +141,8 @@
 - MongoDB
 - Mongoose
 
+### Архитектурная диаграмма
+
 ![Architecture diagram](architecture.png)
 
 ---
@@ -151,6 +155,10 @@
 
 Сервер будет доступен по адресу  
 http://localhost:3000
+
+### Хостинг
+
+https://auction-backend-main.onrender.com
 
 ---
 
