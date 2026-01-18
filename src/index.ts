@@ -8,7 +8,7 @@ import userRoutes from './routes/users';
 
 import runDemo from './scripts/runDemo';
 
-const MONGO_URI = process.env.MONGO_URI || 'mongodb://mongo:27017/auction';
+const MONGO_URI = 'mongodb+srv://trufanovruslan33_db_user:lJhbRhkkJja4AO9T@cluster0.udmtua5.mongodb.net/?appName=Cluster0';
 
 async function start() {
     await mongoose.connect(MONGO_URI);
