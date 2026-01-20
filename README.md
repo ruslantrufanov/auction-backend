@@ -156,8 +156,12 @@
 Сервер будет доступен по адресу  
 http://localhost:3000
 
-### Хостинг
+### Демо
 
+Видео
+https://drive.google.com/file/d/1302mylRE5AtQLN8GSOcMfCByNNTkAJ6t/view?usp=sharing
+
+Live-деплой
 https://auction-backend-main.onrender.com
 
 ---
