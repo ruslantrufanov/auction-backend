@@ -158,10 +158,10 @@ http://localhost:3000
 
 ### Демо
 
-Видео
+Видео  
 https://drive.google.com/file/d/1302mylRE5AtQLN8GSOcMfCByNNTkAJ6t/view?usp=sharing
 
-Live-деплой
+Live-деплой  
 https://auction-backend-main.onrender.com
 
 ---
